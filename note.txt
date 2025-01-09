@@ -1,1 +1,3 @@
 kubectl port-forward kubernetes-demo-pod 3000:3000
+
+localhost:3000
